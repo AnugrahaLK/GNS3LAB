@@ -1,1 +1,1 @@
-
+Basic enterprise network design and implementation in GNS3 using Cisco IOSv and IOSvL2. The project covers IPv4 subnetting, router interface configuration, DHCP, VPCS client configuration, and connectivity testing for HR, Finance, IT, and Sales departments. VLANs, inter-VLAN routing, and ACLs are planned as future enhancements.
